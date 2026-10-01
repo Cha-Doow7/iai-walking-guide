@@ -1,0 +1,15 @@
+Put your 13 route photos in THIS folder. JPG, JPEG and PNG supported.
+
+01: 01-library.jpg (or .jpeg / .png)
+02: 02-straight.jpg (or .jpeg / .png)
+03: 03-turn-right.jpg (or .jpeg / .png)
+04: 04-va-atrium.jpg (or .jpeg / .png)
+05: 05-turn-left.jpg (or .jpeg / .png)
+06: 06-stairs.jpg (or .jpeg / .png)
+07: 07-meeting-point.jpg (or .jpeg / .png)
+08: 08-straight.jpg (or .jpeg / .png)
+09: 09-stairs-down.jpg (or .jpeg / .png)
+10: 10-turn-left.jpg (or .jpeg / .png)
+11: 11-corridor.jpg (or .jpeg / .png)
+12: 12-door.jpg (or .jpeg / .png)
+13: 13-fsch.jpg (or .jpeg / .png)
